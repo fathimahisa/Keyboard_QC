@@ -11,5 +11,5 @@ This is a CV2 program to •	Be able to identify and distinguish between the two
 •	The keyboard boarder needs to be highlighted <br>
 •	Detect the keyboard anywhere in the image at any rotation <br>
 • The program needs to detect if there are any keys missing on the keyboards. This needs to be indicated by some sort of graphical marker such as a ring or box with a text.
-Please note Demo videos are not perfect as the camera and lighting quality is compremised!!!
+Please note Demo videos are not perfect as the camera and lighting quality is compromised!!!
 
